@@ -121,9 +121,6 @@ Become a sponsor and get your logo on our README on GitHub with a link to your s
 # clone the project
 git clone https://github.com/oavioz/vuejs-elemet-admin.git
 
-# enter the project directory
-cd vue-element-admin
-
 # install dependency
 npm install
 
